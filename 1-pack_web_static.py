@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #!/usr/bin/python3
 
 """ This module contains the function do_pack that generates a .tgz archive
@@ -44,12 +29,3 @@ def do_pack():
     else:
 
         return None
-
-
-
-
-
-
-
-
-
